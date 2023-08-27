@@ -1,0 +1,12 @@
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\bin\Debug\net7.0\ControleFinanceiro.Core.deps.json
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\bin\Debug\net7.0\ControleFinanceiro.Core.dll
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\bin\Debug\net7.0\ControleFinanceiro.Core.pdb
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\obj\Debug\net7.0\ControleFinanceiro.Core.csproj.AssemblyReference.cache
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\obj\Debug\net7.0\ControleFinanceiro.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\obj\Debug\net7.0\ControleFinanceiro.Core.AssemblyInfoInputs.cache
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\obj\Debug\net7.0\ControleFinanceiro.Core.AssemblyInfo.cs
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\obj\Debug\net7.0\ControleFinanceiro.Core.csproj.CoreCompileInputs.cache
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\obj\Debug\net7.0\ControleFinanceiro.Core.dll
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\obj\Debug\net7.0\refint\ControleFinanceiro.Core.dll
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\obj\Debug\net7.0\ControleFinanceiro.Core.pdb
+C:\Projects\study\projects\controle-financeiro-back\ControleFinanceiro\app\ControleFinanceiro.Core\obj\Debug\net7.0\ref\ControleFinanceiro.Core.dll
