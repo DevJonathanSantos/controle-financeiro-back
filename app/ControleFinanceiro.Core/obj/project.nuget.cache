@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "629zv4Xsz0Ne2Yz+42uCXHixojuqEKRflCbfA01xzEA0VzWsUa2tzwTUT2/BafPcgGwFHFHK0/vbJbHvn2hAKQ==",
+  "dgSpecHash": "3FXZIgCD2YSoO85QurehglqMmseho43g8q2Ay9k9ZnkgFHBTFmRejsxzgYCjUHOqEHR4QAu8sf5x/4C7bwZgQQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JonathanOliveira\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\JonathanOliveira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\JonathanOliveira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

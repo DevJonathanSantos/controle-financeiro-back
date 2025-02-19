@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EfAjsbubUhESijwm7CAxloSud0cJ43qDsSo2pxwWoz93daqmr5kfpRD3F0oB8JPSxoNAcJtJQCRQMwAH1ipC8Q==",
+  "dgSpecHash": "ivzP1UT0h3qAwG8+PC4vkFGm/zxRUC9lqflId4Er/8XbFbc+O27tdh+saWfkKBDZC0Jy2rVTOxShnNN8UUE8Sw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Data\\ControleFinanceiro.Data.csproj",
+  "projectFilePath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Data\\ControleFinanceiro.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JonathanOliveira\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\JonathanOliveira\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -75,7 +75,10 @@
     "C:\\Users\\JonathanOliveira\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\JonathanOliveira\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\JonathanOliveira\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\JonathanOliveira\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+    "C:\\Users\\JonathanOliveira\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\JonathanOliveira\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\JonathanOliveira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\JonathanOliveira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }

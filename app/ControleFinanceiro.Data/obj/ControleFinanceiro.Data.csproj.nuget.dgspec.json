@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Data\\ControleFinanceiro.Data.csproj": {}
+    "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Data\\ControleFinanceiro.Data.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Business\\ControleFinanceiro.Business.csproj": {
+    "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Business\\ControleFinanceiro.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Business\\ControleFinanceiro.Business.csproj",
+        "projectUniqueName": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Business\\ControleFinanceiro.Business.csproj",
         "projectName": "ControleFinanceiro.Business",
-        "projectPath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Business\\ControleFinanceiro.Business.csproj",
+        "projectPath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Business\\ControleFinanceiro.Business.csproj",
         "packagesPath": "C:\\Users\\JonathanOliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Business\\obj\\",
+        "outputPath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JonathanOliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj": {
-                "projectPath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj"
+              "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj": {
+                "projectPath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj"
               }
             }
           }
@@ -68,23 +68,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.113\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj": {
+    "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj",
+        "projectUniqueName": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj",
         "projectName": "ControleFinanceiro.Core",
-        "projectPath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj",
+        "projectPath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj",
         "packagesPath": "C:\\Users\\JonathanOliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\obj\\",
+        "outputPath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JonathanOliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -123,23 +137,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.113\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Data\\ControleFinanceiro.Data.csproj": {
+    "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Data\\ControleFinanceiro.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Data\\ControleFinanceiro.Data.csproj",
+        "projectUniqueName": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Data\\ControleFinanceiro.Data.csproj",
         "projectName": "ControleFinanceiro.Data",
-        "projectPath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Data\\ControleFinanceiro.Data.csproj",
+        "projectPath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Data\\ControleFinanceiro.Data.csproj",
         "packagesPath": "C:\\Users\\JonathanOliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Data\\obj\\",
+        "outputPath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JonathanOliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,11 +184,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Business\\ControleFinanceiro.Business.csproj": {
-                "projectPath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Business\\ControleFinanceiro.Business.csproj"
+              "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Business\\ControleFinanceiro.Business.csproj": {
+                "projectPath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Business\\ControleFinanceiro.Business.csproj"
               },
-              "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj": {
-                "projectPath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj"
+              "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj": {
+                "projectPath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj"
               }
             }
           }
@@ -207,12 +235,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.113\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj",
+      "projectUniqueName": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj",
       "projectName": "ControleFinanceiro.Core",
-      "projectPath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj",
+      "projectPath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\ControleFinanceiro.Core.csproj",
       "packagesPath": "C:\\Users\\JonathanOliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\study\\projects\\controle-financeiro-back\\ControleFinanceiro\\app\\ControleFinanceiro.Core\\obj\\",
+      "outputPath": "C:\\projects\\study\\projects\\controle-financeiro\\controle-financeiro-back\\app\\ControleFinanceiro.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JonathanOliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,12 +56,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.113\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -18,8 +18,13 @@ builder.Services.AddCORS(builder.Configuration);
 
 builder.Services.AddDbContext<ControleFinanceiroContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("SQL_SERVER"),
-    b => b.MigrationsAssembly("ControleFinanceiro.Data")));
-//dotnet ef migrations add updating_tables --startup-project ../ControleFinanceiro.Api/ControleFinanceiro.Api.csproj
+    b => b.MigrationsAssembly("ControleFinanceiro.Data"))) ;
+//dotnet ef migrations add add_gategories --project ../ControleFinanceiro.Data
+//dotnet ef database update --project ../ControleFinanceiro.Data
+
+//Estando no diretorio de Data
+//dotnet ef migrations add AddPrepexInContract --startup-project ../VLI.Jetsons.Application/VLI.Jetsons.Application.csproj
+
 builder.Services.AddScoped<IExpenseRepository, ExpenseRepository>();
 builder.Services.AddScoped<IParcelRepository, ParcelRepository>();
 
